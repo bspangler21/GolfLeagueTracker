@@ -4,6 +4,3 @@
 [submodule "GolfTrackerAPI"]
 	path = GolfTrackerAPI
 	url = https://github.com/bspangler21/GolfTrackerAPI.git
-[submodule "GolfTrackerExpress"]
-	path = GolfTrackerExpress
-	url = https://github.com/bspangler21/GolfTrackerExpress.git
